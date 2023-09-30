@@ -1,6 +1,6 @@
 import '../App.css';
 import React from 'react';
-import {BrowserRouter,Route,Routes} from 'react-router-dom';
+import {HashRouter,Route,Routes} from 'react-router-dom';
 import Header from '../Components/header/Header';
 import Subscribe from '../pages/Subscribe';
 import Shows from '../pages/Shows';
@@ -13,7 +13,7 @@ import Home from '../pages/Home';
     
 return (
     <div className='App'>
-        <BrowserRouter> 
+        <HashRouter> 
         <Header />
         <Routes>
            <Route  index  element={<Home />}/>
@@ -25,7 +25,7 @@ return (
            {/* <Route  component={Error }/> */}
  
           </Routes>
-      </BrowserRouter> 
+      </HashRouter> 
     </div>
    );
  }
