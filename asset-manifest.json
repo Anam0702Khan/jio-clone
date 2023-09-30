@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/jio-clone/static/css/main.59979244.css",
+    "main.js": "/jio-clone/static/js/main.3c9be2bb.js",
+    "static/media/subscribe.jpg": "/jio-clone/static/media/subscribe.43eb6ebfc528a213c195.jpg",
+    "static/media/revicons.eot": "/jio-clone/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/jio-clone/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/jio-clone/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/jio-clone/index.html",
+    "main.59979244.css.map": "/jio-clone/static/css/main.59979244.css.map",
+    "main.3c9be2bb.js.map": "/jio-clone/static/js/main.3c9be2bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59979244.css",
+    "static/js/main.3c9be2bb.js"
+  ]
+}
